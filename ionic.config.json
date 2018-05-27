@@ -1,0 +1,8 @@
+{
+  "name": "DaKaClock",
+  "app_id": "12371eac",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
